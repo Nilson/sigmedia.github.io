@@ -10,7 +10,7 @@ Current positions are always listed on the main [TCD webpage](http://www.tcd.ie/
 Prospective PhD candidates should contact us during their final year of study to
 explore funding opportunities. We consider applications from candidates with a
 first-class degree (expected) in a numerate discipline e.g. Electronics,
-Computer Science or Mathematics. Experience in signal processing and Matlab is a
+Computer Science or Mathematics. Experience in signal processing and Matlab or Python is a
 distinct advantage. Please send a short CV and motivation letter, including the
 names of at least 2 referees, to prospective Advisors listed on the Teams page.
 
