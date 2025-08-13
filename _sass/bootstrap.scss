@@ -63,7 +63,7 @@ p {
 /* Individual Theme Box */
 .theme-box {
   flex: 1;
-  min-width: 200px;
+  min-width: 250px;
   padding: 20px;
   background: #f9f9f9;
   border: 1px solid #ddd;
@@ -92,6 +92,24 @@ p {
 
 /* Highlight Overlapping Theme */
 .theme-overlap {
+  background: #fef6e0;
+  border-color: #f2d085;
+  box-shadow: 0 4px 10px rgba(255, 193, 7, 0.3);
+}
+
+.theme-speech {
+  background: #fef6e0;
+  border-color: #f2d085;
+  box-shadow: 0 4px 10px rgba(255, 193, 7, 0.3);
+}
+
+.theme-acoustics {
+  background: #fef6e0;
+  border-color: #f2d085;
+  box-shadow: 0 4px 10px rgba(255, 193, 7, 0.3);
+}
+
+.theme-video {
   background: #fef6e0;
   border-color: #f2d085;
   box-shadow: 0 4px 10px rgba(255, 193, 7, 0.3);
